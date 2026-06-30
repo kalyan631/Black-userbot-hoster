@@ -5692,7 +5692,7 @@ else:
     # ════════════════════════════════════════════════════════════════
     import os
     import sys
-    BOT_TOKEN = "1234567890:AAHxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    BOT_TOKEN = "8869239184:AAGstRJGo-Sy4LxQ-gO0Zrh0j2Nr5KctbJw"
     OWNER_ID          = 7970097238
     SUPPORT_USERNAME  = "@Revenge_mode"
     MAX_USERBOTS      = int(os.environ.get("MAX_USERBOTS", "50") or "50")
