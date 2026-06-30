@@ -5693,7 +5693,7 @@ else:
     import os
     import sys
     BOT_TOKEN         = "YAHA BOT TOKEN DALO "
-    OWNER_ID          = !
+    OWNER_ID          = 7970097238
     SUPPORT_USERNAME  = "@BLACKxGOD"
     MAX_USERBOTS      = int(os.environ.get("MAX_USERBOTS", "50") or "50")
     TELEGRAM_API_ID   = 2040
