@@ -1,0 +1,12 @@
+python-telegram-bot
+telethon
+requests
+qrcode
+gTTS
+yt-dlp
+Pillow
+aiohttp
+httpx
+psutil
+cryptg
+tgcrypto
